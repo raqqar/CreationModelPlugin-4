@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationModelPlugin", "CreationModelPlugin\CreationModelPlugin.csproj", "{6725233F-1512-4D02-A997-15811B118A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6725233F-1512-4D02-A997-15811B118A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6725233F-1512-4D02-A997-15811B118A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6725233F-1512-4D02-A997-15811B118A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6725233F-1512-4D02-A997-15811B118A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {792D273F-9EE5-4871-98F0-17CF2CFE59FF}
+	EndGlobalSection
+EndGlobal
