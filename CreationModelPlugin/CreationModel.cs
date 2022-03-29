@@ -41,6 +41,8 @@ namespace CreationModelPlugin
             List<Wall> walls = CreateWalls(doc, width, depth, level1, level2);//изменен в соответствии с заданием 5
             AddDoor(doc, level1, walls[0]);
             AddWindow(doc, level1, walls[1]);
+            AddWindow(doc, level1, walls[2]);
+            AddWindow(doc, level1, walls[3]);
 
             transaction.Commit();
             return Result.Succeeded;
